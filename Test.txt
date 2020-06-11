@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Heloo World 123456789
 Ho hiep
 Bao thanh
@@ -7,3 +8,6 @@ Bao thanh
 =======
 Heloo World
 >>>>>>> parent of a316384... coomit to Test.txt errggr
+=======
+Sua doi file Test.txt
+>>>>>>> alpha
